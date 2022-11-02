@@ -30,7 +30,7 @@ public class Ispis {
 						System.out.println("Srećna Nova godina!");
 					}
 					if (dan==3 && mesec==1) {
-						System.out.print("Neradni dan!"+" ");
+						System.out.print("Neradni dan."+" ");
 					}
 					if(dan==7 && mesec==1) {
 						System.out.print("Srećan Božić!");
